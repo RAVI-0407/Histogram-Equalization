@@ -6,7 +6,7 @@
 
 To write a Python program using OpenCV to perform histogram equalization on both grayscale and color images to enhance image contrast and brightness.
 
-The program performs the following operations:
+**The program performs the following operations:**
 
 - Read and display a grayscale image  
 - Plot histogram of the grayscale image  
@@ -70,6 +70,7 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 
 ## Developed By:
 **Name:** Raviprasath K
+
 **Register No:** 212224230225
 
 ## Program:
